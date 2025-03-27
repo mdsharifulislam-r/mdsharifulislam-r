@@ -62,5 +62,5 @@ Welcome to my GitHub profile! I'm a dedicated **MERN Stack Developer** specializ
 
 ⭐ **If you find my work valuable, consider giving it a star!** ⭐
 
-![Thanks for Visiting](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
 
