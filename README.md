@@ -36,9 +36,9 @@ Welcome to my GitHub profile! I'm a dedicated **MERN Stack Developer** specializ
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&animate=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdsharifulislam-r&show_icons=true&theme=tokyonight&animate=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&animate=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsharifulislam-r&layout=compact&theme=tokyonight&animate=true)
 
 ---
 
