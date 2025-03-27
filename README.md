@@ -2,9 +2,9 @@
 
 ### 🚀 MERN Stack Developer | Backend Specialist | Open-Source Enthusiast
 
-Welcome to my GitHub profile! I'm a dedicated **MERN Stack Developer** specializing in building high-performance web applications, scalable backend systems, and engaging user experiences. Passionate about open-source contributions, problem-solving, and continuous learning, I strive to deliver efficient and innovative solutions.
+![Banner](https://media.licdn.com/dms/image/v2/D5616AQE60HDnWYfRRA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726943551786?e=1748476800&v=beta&t=w6dN1SGonBNefqMV2ax1t6dGuloA9eqs1bbPKTANwMk)
 
-![Animated Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+Welcome to my GitHub profile! I'm a dedicated **MERN Stack Developer** specializing in building high-performance web applications, scalable backend systems, and engaging user experiences. Passionate about open-source contributions, problem-solving, and continuous learning, I strive to deliver efficient and innovative solutions.
 
 ---
 
@@ -62,5 +62,5 @@ Welcome to my GitHub profile! I'm a dedicated **MERN Stack Developer** specializ
 
 ⭐ **If you find my work valuable, consider giving it a star!** ⭐
 
-
+![Thanks for Visiting](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
