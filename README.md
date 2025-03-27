@@ -55,12 +55,11 @@ Welcome to my GitHub profile! I'm a dedicated **MERN Stack Developer** specializ
 
 - 🌐 **Portfolio:** [mdsharifulislam.vercel.app](https://mdsharifulislam.vercel.app)
 - 💼 **LinkedIn:** [linkedin.com/in/md-shariful-islam-160311229](https://www.linkedin.com/in/md-shariful-islam-160311229/)
-- 🐦 **Twitter:** [twitter.com/yourusername](https://twitter.com/yourusername)
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- 📧 **Email:** [eng.mdshariful.islam.7@gmail.com](mailto:eng.mdshariful.islam.7@gmail.com)
 
 ---
 
 ⭐ **If you find my work valuable, consider giving it a star!** ⭐
 
-![Thanks for Visiting](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
 
