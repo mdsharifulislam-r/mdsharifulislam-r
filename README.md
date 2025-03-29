@@ -2,7 +2,7 @@
 
 ### 🚀 MERN Stack Developer | Backend Specialist | Open-Source Enthusiast
 
-![Banner](https://media.licdn.com/dms/image/v2/D5616AQE60HDnWYfRRA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726943551786?e=1748476800&v=beta&t=w6dN1SGonBNefqMV2ax1t6dGuloA9eqs1bbPKTANwMk)
+![Banner](https://scontent.fdac166-1.fna.fbcdn.net/v/t39.30808-6/461248509_1751208435635829_1827800786766038288_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeGDnso5E_dcz7vrUWj5tIbWcbhfHPcWzKhxuF8c9xbMqBAc5RBAite4Gf3FSuN8ZDswHHg0NKD1lsqM00hh8FOo&_nc_ohc=AYswSOFfvfQQ7kNvgHxHFfk&_nc_oc=AdlveXGB1FsCEAlYTaPTuUJK1cj2_P8Ps_abaYe4jcSzQvA5kkjz8yafj_fN6GxReNY&_nc_zt=23&_nc_ht=scontent.fdac166-1.fna&_nc_gid=q8KcLxhBpK9goQkZNjHXAw&oh=00_AYFDycEmXtNiW3EE7lcwXOjrlrpHn7LcAjMJC0eE7drYaQ&oe=67ED42DF)
 
 Welcome to my GitHub profile! I'm a dedicated **MERN Stack Developer** specializing in building high-performance web applications, scalable backend systems, and engaging user experiences. Passionate about open-source contributions, problem-solving, and continuous learning, I strive to deliver efficient and innovative solutions.
 
